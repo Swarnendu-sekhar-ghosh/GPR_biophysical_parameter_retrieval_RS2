@@ -10,7 +10,7 @@ Code for plotting temporal analysis of backscatter intensitites is availaible no
 
 
 
-## <img src=https://user-images.githubusercontent.com/42670579/154798028-f97fe796-6be4-4328-9021-9912de0b3bbe.jpg> Cite our work 
+## <img src="https://user-images.githubusercontent.com/42670579/154798028-f97fe796-6be4-4328-9021-9912de0b3bbe.jpg" width="60" height="60"> Cite our work 
 
 If you find our article useful kindly cite it using the following bibtex: 
 
