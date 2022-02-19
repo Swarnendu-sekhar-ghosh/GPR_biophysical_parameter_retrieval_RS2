@@ -1,8 +1,13 @@
-# GPR_biophysical_parameter_retrieval_RS2
+# Abstract 
+
+Biophysical parameter retrieval using remote sensing has long been utilized for crop yield forecasting and economic practices. Remote sensing can provide information across a large spatial extent and in a timely manner within a season. Plant Area Index (PAI), Vegetation Water Content (VWC), and Wet-Biomass (WB) play a vital role in estimating crop growth and helping farmers make market decisions. Many parametric and non-parametric machine learning techniques have been utilized to estimate these parameters. A general non-parametric approach that follows a Bayesian framework is the Gaussian Process (GP). The parameters of this process-based technique are assumed to be random variables with a joint Gaussian distribution. The purpose of this work is to investigate Gaussian Process Regression (GPR) models to retrieve biophysical parameters of three annual crops utilizing combinations of multiple polarizations from C-band SAR data. RADARSAT-2 full-polarimetric images and in situ measurements of wheat, canola, and soybeans obtained from the SMAPVEX16 campaign over Manitoba, Canada, are used to evaluate the performance of these GPR models. The results from this research demonstrate that both the full-pol (HH+HV+VV) combination and the dual-pol (HV+VV) configuration can be used to estimate PAI, VWC, and WB for these three crops.
+
+## Code avalaibility
 
 Codes for retrieving wheat and canola biophysical parameters utilizing gaussian process regression are availaible now !!!
 
 Code for plotting temporal analysis of backscatter intensitites is availaible now !!!
+
 
 
 ## How to cite my work 
