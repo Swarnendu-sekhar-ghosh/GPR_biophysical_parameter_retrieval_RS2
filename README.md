@@ -12,17 +12,6 @@ Code for plotting temporal analysis of backscatter intensitites is availaible no
 
 ## <img src="https://user-images.githubusercontent.com/42670579/154798028-f97fe796-6be4-4328-9021-9912de0b3bbe.jpg" width="40" height="40"> Cite our work 
 
-If you find our article useful kindly cite it using the following bibtex: 
+If you find our article useful kindly cite: 
 
-@Article{rs14040934,
-AUTHOR = {Ghosh, Swarnendu Sekhar and Dey, Subhadip and Bhogapurapu, Narayanarao and Homayouni, Saeid and Bhattacharya, Avik and McNairn, Heather},
-TITLE = {Gaussian Process Regression Model for Crop Biophysical Parameter Retrieval from Multi-Polarized C-Band SAR Data},
-JOURNAL = {Remote Sensing},
-VOLUME = {14},
-YEAR = {2022},
-NUMBER = {4},
-ARTICLE-NUMBER = {934},
-URL = {https://www.mdpi.com/2072-4292/14/4/934},
-ISSN = {2072-4292},
-DOI = {10.3390/rs14040934}
-}
+ - **Swarnendu Sekhar Ghosh**, Subhadip Dey, Narayanarao Bhogapurapu,  Saeid Homayouni,  Avik Bhattacharya, Heather McNairn 2022 “Gaussian Process Regression Model for Crop Biophysical Parameter Retrieval from Multi-Polarized C-Band SAR Data”. Remote Sensing. Volume 14, 2022, Pages 4, ISSN 2072-4292 doi: [10.3390/rs14040934]( https://doi.org/10.3390/rs14040934)
