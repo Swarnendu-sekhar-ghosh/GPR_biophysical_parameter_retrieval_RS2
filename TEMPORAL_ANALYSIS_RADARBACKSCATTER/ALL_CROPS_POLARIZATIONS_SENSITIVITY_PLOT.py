@@ -48,7 +48,7 @@ legend.remove()
 plt.show()
 
 saveFileName = 'HH_ALL_CROPS.pdf'
-file_savePath = 'F:/SMAPVEX_16_DATA/SMP16_DATA/EXTRACTED_DATA/SENSITIVITY_ANALYSIS/ALL_CROPS_PLOTS/' + saveFileName
+file_savePath = 'put your folder path here where you want to save your image file' + saveFileName
 print("Saved at: ",file_savePath)
 fig1.savefig(file_savePath, bbox_inches = 'tight', dpi = 300, pad_inches = 0.08, 
             frameon = None)
@@ -139,7 +139,7 @@ plt.legend(ncol=3,bbox_to_anchor=(0.5,-0.2),loc='upper center',fontsize=100,fram
 plt.show()
 
 saveFileName = 'VV_ALL_CROPS.pdf'
-file_savePath = 'F:/SMAPVEX_16_DATA/SMP16_DATA/EXTRACTED_DATA/SENSITIVITY_ANALYSIS/ALL_CROPS_PLOTS/' + saveFileName
+file_savePath = 'put your folder path here where you want to save your image file' + saveFileName
 print("Saved at: ",file_savePath)
 fig3.savefig(file_savePath, bbox_inches = 'tight', dpi = 300, pad_inches = 0.08, 
             frameon = None)
